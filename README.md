@@ -16,3 +16,5 @@ I used classes and linked them to my css file and added basic background color ,
 
 I followed the Odin project to make this "website".
 
+live link: https://beautje.github.io/odin-recipes/
+
