@@ -47,3 +47,11 @@ p {
      font-weight:400;
      color:purple;
  }
+
+ .link {
+     font-size: 20px;
+     font-weight: 700;
+     display:block;
+     text-align:center;
+
+ }
