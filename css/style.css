@@ -1,0 +1,48 @@
+
+.heading {
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    font-size:36px;
+    color:blue;
+    text-align:center;
+
+}
+.heading2 {
+    text-align:center;
+    color:pink;
+}
+.bg {
+    background-color:aquamarine;
+}
+
+ .listindex { 
+    background-color: #ADD8E6;
+    font-size: 28px;
+}
+.img {
+    height: 50% ;
+    width: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.list {
+    text-align: center;
+}
+
+.list.unorded {
+    font-size: 25px;
+    color:red;
+
+}
+ .orded {
+     font-size: 28px;
+     font-weight:400;
+     color:purple;
+ }
